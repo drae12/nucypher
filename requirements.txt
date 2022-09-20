@@ -88,7 +88,7 @@ twisted==19.10.0
 txaio==20.1.1
 tzlocal==2.1b1
 umbral==0.1.3a2
-urllib3==1.25.8
+urllib3==1.26.5
 varint==1.0.2
 watchdog==0.10.2
 web3==5.6.0
