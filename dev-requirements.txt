@@ -1,7 +1,7 @@
 -i https://pypi.python.org/simple
 aafigure==0.6
 alabaster==0.7.12
-ansible==2.9.5
+ansible==7.0.0
 apipkg==1.5
 attrs==19.3.0
 babel==2.8.0
