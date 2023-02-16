@@ -93,5 +93,5 @@ varint==1.0.2
 watchdog==0.10.2
 web3==5.6.0
 websockets==8.1
-werkzeug==1.0.0
+werkzeug==2.2.3
 zope.interface==4.7.1
